@@ -1,4 +1,5 @@
 name: GitHub Actions Demo
+description: 'Is this a valid field? This is a demo action that echoes some emoji and magic variables.'
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
